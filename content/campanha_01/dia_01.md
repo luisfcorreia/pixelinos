@@ -6,7 +6,7 @@ slug: "dia_01"
 
 ---
 
-# Dia um
+# Goblin Arrows
 
 Os aventureiros começam a aventura, depois de terem sido contratados para transportar uma carroça com mantimentos para Phandalin, ao serviço de Gundren Rockseeker.
 
