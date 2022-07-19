@@ -3,6 +3,7 @@
 
 title: Primeiro Dia da aventura
 slug: "dia_01"
+weigth: 1
 
 ---
 
