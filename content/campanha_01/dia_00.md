@@ -13,4 +13,8 @@ weigth: 0
 * Antonio - Dwarf Rogue
 * Olf - Human Monk
 
+# Dungeon Master
+
+* Luis Correia (via formação avançada Critical Role School, Campaign 2)
+
 
