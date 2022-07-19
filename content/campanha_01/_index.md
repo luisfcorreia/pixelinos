@@ -1,6 +1,6 @@
 ---
 
-title: Campanha um - The Lost Mine of Phandelver
+title: Lost Mine of Phandelver
 slug: "campanha_01"
 
 ---
