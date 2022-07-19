@@ -2,7 +2,7 @@ baseURL = "https://pixelinos.pages.dev"
 
 languageCode = "pt-PT"
 DefaultContentLanguage = "pt"
-title = "DnD Campaign - Lost Caves"
+title = "Um registo de uma campanha Dungeons & Dragons"
 theme = "docdock"
 #themesdir = "../.."
 pygmentsCodeFences = true

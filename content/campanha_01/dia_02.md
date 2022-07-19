@@ -1,18 +1,18 @@
 
 ---
 
-title: Segundo Dia da aventura
+title: Segundo Dia
 slug: "dia_02"
-weight: 02
+weight: 20
 
 ---
 
 # Cragmaw Hideout
 
-Começam o dia descendo para o pequeno almoço, trazendo todas as tralhas.
+No segundo dia, o grupo começa por descer para o pequeno almoço, trazendo todas as tralhas.
 Quase no final do pequeno almoço, são interrompidos por um miudo que lhes pede para voltarem a falar com o Barthen.
 
-Elmar Barthen pede-lhe que voltem ao local da emboscada e investiguem o que se poderá ter passado com Gundren e Sildar, oferecendo 40 moedas de ouro como recompensa, avançando 5 moedas como incentivo.
+Ao visitar novamente a Barthen's Provisions, Elmar Barthen pede-lhe que voltem ao local da emboscada e investiguem o que se poderá ter passado com Gundren e Sildar, oferecendo 40 moedas de ouro como recompensa, avançando 5 moedas como incentivo.
 
 O grupo volta até ao local da emboscada e segue o trilho, notando que de facto há imensas pegadas de goblins e indícios de dois corpos a serem arrastados ao longo do caminho.
 

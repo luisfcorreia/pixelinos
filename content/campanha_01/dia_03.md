@@ -1,9 +1,9 @@
 
 ---
 
-title: Terceiro Dia da aventura
+title: Terceiro Dia
 slug: "dia_03"
-weight: 03
+weight: 30
 
 ---
 
