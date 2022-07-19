@@ -2,7 +2,7 @@
 
 title: Quarto Dia da aventura
 slug: "dia_04"
-weigth: 4
+weight: 4
 
 ---
 
