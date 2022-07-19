@@ -3,6 +3,7 @@
 
 title: Segundo Dia da aventura
 slug: "dia_02"
+weight: 2
 
 ---
 
