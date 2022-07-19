@@ -2,7 +2,7 @@ baseURL = "https://pixelinos.pages.dev"
 
 languageCode = "pt-PT"
 DefaultContentLanguage = "pt"
-title = "Um registo de uma campanha Dungeons & Dragons"
+title = "Registos de uma (ou mais) campanhas Dungeons & Dragons"
 theme = "docdock"
 #themesdir = "../.."
 pygmentsCodeFences = true
@@ -24,7 +24,7 @@ themeVariant = "gray" # choose theme variant "green", "gold" , "gray", "blue" (d
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = false # default is false
-disableNavChevron = false # set true to hide next/prev chevron, default is false
+disableNavChevron = true # set true to hide next/prev chevron, default is false
 highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
 enableGitInfo = true

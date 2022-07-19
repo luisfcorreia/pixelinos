@@ -1,4 +1,3 @@
-
 ---
 
 title: Segundo Dia
