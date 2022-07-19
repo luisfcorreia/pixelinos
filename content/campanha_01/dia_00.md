@@ -2,7 +2,7 @@
 
 title: Os Aventureiros
 slug: "aventureiros"
-weigth: 0
+weight: 0
 
 ---
 
