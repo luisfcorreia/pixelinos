@@ -1,3 +1,13 @@
+
+---
+
+title: Primeiro Dia da aventura
+slug: "dia_01"
+
+---
+
+# Dia um
+
 Os aventureiros começam a aventura, depois de terem sido contratados para transportar uma carroça com mantimentos para Phandalin, ao serviço de Gundren Rockseeker.
 
 Gundren partiu a cavalo, acompanhado do seu guerreiro Sildar Hallwinter, sem antes ter dito que estava muito excitado por uma descoberta que ele e os seus irmãos tinham feito, mantendo os detalhes em segredo.
