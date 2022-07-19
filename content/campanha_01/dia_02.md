@@ -6,7 +6,7 @@ slug: "dia_02"
 
 ---
 
-# Dia dois - Cragmaw Hideout
+# Cragmaw Hideout
 
 Começam o dia descendo para o pequeno almoço, trazendo todas as tralhas.
 Quase no final do pequeno almoço, são interrompidos por um miudo que lhes pede para voltarem a falar com o Barthen.
