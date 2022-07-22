@@ -76,9 +76,7 @@ Nesse baú encontra uma espada que, após análise cuidada, revela Talon, a arma
 
 Findo esta aventura, o grupo regressa então a Phandalin.
 
-
-
-
+![Redbrand Hideout](/images/RedbrandHideout.jpg)
 
 À chegada a Phandalin, o nosso grupo decide investigar o Sleeping Giant, onde trata de eliminar os restantes membros dos Redbrand que estavam ruidosamente a beber a um canto desta taberna.
 

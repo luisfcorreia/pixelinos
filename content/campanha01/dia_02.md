@@ -51,6 +51,6 @@ Nova batalha com o bugbear, goblins e um lobo, em que o grupo sofre alguns golpe
 
 O grupo elimina as restantes ameaça e explora este espaço, encontrando um baú com 600 moedas de cobre,  110 de ouro, duas poções de cura e uma estatueta de Jade de um sapo com pequenas olhos dourados que vale perto de 40 moedas de ouro.
 
-
+![Cragmaw Hideout](/images/CragmawHideout.jpg)
 
 Voltam a Phalandin, comunicando a Linene que encontraram as provisões roubadas no hideout dos Goblins. Fazem novo checkin no Stonehill Inn, ajudando Sildar a recuperar as feridas que sofreu no cativeiro e após terem a certeza que Sildar descansa, recolhem-se para descansar também.
