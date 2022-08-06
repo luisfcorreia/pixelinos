@@ -35,7 +35,15 @@ O grupo conversa gentilmente com Agatha, a quem oferecem o pente prateado e obt�
 
 Depois de responder a uma pergunta e apenas uma, Agatha gira no ar, transforma-se num turbilhão e desaparece.
 
-O grupo decide voltar à estrada e continuar pelo caminho durante o resto do dia sem que nada de especial tenha acontecido.
+O grupo decide voltar à estrada e umas horas depois de saírem de Conyberry dão com um caminho que descia pelo vale ao longo do rio. 
+
+Olf decidiu fazer uma pequena paragem, pois tinha visto alguns peixes neste rio, entrando pela água e pacientemente esperou, imóvel, durante mais de 20 minutos.
+
+De repente lança os braços na água, apanha duas trutas bem gordas e diz para o grupo: "Malta, temos almoço!".
+
+Depois do almoço, continuam ao longo do rio até que Alxian pressente algo de errado, desviando-se a tempo de duas setas. O grupo então apercebe-se que há pelo menos dois Goblins escondidos atrás de duas árvores mais acima na colina.
+
+Entre movimentos ágeis para se desviarem das setas, até ao António despachar um dos Goblins, Shenron lança um feitiço de Sleep e coloca facilmente dois Golins a dormir, o grupo despacha-se a sair do alcance das setas, correndo durante largos minutos.
 
 Preparam novamente o acampamento, trataram da refeição da noite e prepararam os turnos de vigia para a noite.
 
