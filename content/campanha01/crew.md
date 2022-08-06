@@ -15,7 +15,7 @@ weight: 01
 
 # Convidados
 
-* ?? - ??
+* Viktor - Human Variant Fighter
 
 # Dungeon Master
 
