@@ -41,8 +41,8 @@ Deslocam-se calmamente para o local que Viktor indicou para perceberem melhor co
 
 Encostado a um pedregulho enorme está um Orc com um ar brutalmente aborrecido, onde o António lança duas setas com o seu Shortbow. A primeira voa tão longe que o Orc não nota nada, a segunda acerta em cheio na garganta do Orc que cai redondo.
 
-O grupo entra então pela caverna com cuidado, dando de caras com mais três orcs e um grande Ogre. Ao ver o Ogre, Viktor invoca "Giant's Might" e prepara-se para a batalha.
+O grupo entra então pela caverna com cuidado, dando de caras com mais três orcs e um grande Ogre. Ao ver o Ogre, Viktor invoca "Giant's Might" duplicando o seu tamanho e preparando-se desta forma para a batalha.
 
 Pouco depois e com alguma destreza, o grupo trata da saúde dos Orcs e Viktor trata de eliminar a ameaça do Ogre.
 
-TBD
+O grupo afasta-se então da caverna dos orcs e descansa por umas horas e discute o que fazer a seguir.
