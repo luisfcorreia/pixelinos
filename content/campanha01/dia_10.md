@@ -32,7 +32,18 @@ Reidoth também informa da presença de humanos vestido de preto e do maior peri
 
 O grupo continua a investigar os restantes edificios, até que chega a um que está infestado com teias de aranha. 
 
-Após avançar para desbravar caminho, Alxian fica restraint nas teias de aranha... Após lutarem com as aranhas e as suas teias, finalmente entram na loja, exploram o possível e saem pela porta de baixo, entrando numa nova estrutura 8, onde decidem dormir.
+Após avançar para desbravar caminho, Alxian fica restraint nas teias de aranha fora do edificio.
+
+Viktor decide passar pelo caminho já desbravado por Alxian, entra e fica também restraint pela teia da aranha.
+António entra também e novamente, fica restraint pelas teias de aranha.
+
+Entretanto Viktor informa os restantes que a aranha está no tecto do edificio e Shenron faz cast de Light numa moeda de bronze e atira-a para dentro do edificio, fazendo com que a aranha se recolha para as sombras.
+
+Olf decide trepar pelo telhado, para tentar evitar ser apanhado, mas escorrega numa das telhas, já podres e cai para dentro do edificio, aleijando-se no processo.
+
+Finalmente, um por um vão-se soltando, Alxian entra finalmente no edificio e acaba por dar cabo das aranhas, já que havia outra que estava mais para dentro do edificio.
+
+Após lutarem com as aranhas e as suas teias, finalmente percebem que estão numa antiga na loja que exploram o possível e saem pela porta nas traseiras, entrando numa nova estrutura, onde decidem dormir.
 
 A exaustão causada pela luta com as aranhas fez com que durante essa noite sejam capturados por homens vestidos de negro.
 
