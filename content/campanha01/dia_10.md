@@ -6,7 +6,7 @@ weight: 100
 
 ---
 
-# HERE BE DRAGONS!
+# Thundertree Ruins
 
 O grupo deixa a pequena floresta que rodeia as colinas de Wyvern Tor e segue viagem em direcção das ruínas de Thundertree.
 
@@ -47,5 +47,13 @@ Após lutarem com as aranhas e as suas teias, finalmente percebem que estão num
 
 A exaustão causada pela luta com as aranhas fez com que durante essa noite sejam capturados por homens vestidos de negro.
 
+---
 
+Estes homens vestidos de negro dão pelo nome de "Cult of the Dragon" e planeiam forjar alianças com dragões.
+
+O grupo é então levado até uma edificação próxima, que notam estar totalmente vedada e onde são levados até à presença de Favric, o líder.
+
+Após uma fervorosa discussão sobre as intenções de ambos, o grupo decide dormir o resto da noite, sob vigia constante.
+
+O grupo não conseguiu discernir as intenções dos cultists e de Favric, deixando as decisões para a manhã seguinte.
 
