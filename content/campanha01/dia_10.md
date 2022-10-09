@@ -10,7 +10,7 @@ weight: 100
 
 O grupo deixa a pequena floresta que rodeia as colinas de Wyvern Tor e segue viagem em direcção das ruínas de Thundertree.
 
-viagem 
+Esta viagem pelos bosques dura mais dois dias, sem grandes encontros memoráveis.
 
 Chegados ao topo de mais uma colina, notam por entre a vegetação uma torre circular, parcialmente destruida e mais umas quantas edificações numa cota mais baixa, revelando a presença do que foi em tempos uma povoação.
 
@@ -28,6 +28,13 @@ Numa localização mais a sul, encontram um edificio que não tem tantos danos c
 
 Após terem batido à porta são recebidos por Reidoth, um velho druida humano de barba branca, que os avisa para deixarem este local cheio de perigos, zombies e plantas animadas.
 
-Reidoth também os informa da presença de humanos vestido de preto e do maior perigo de todos por estas bandas, um jovem dragão verde.
+Reidoth também informa da presença de humanos vestido de preto e do maior perigo de todos por estas bandas, um jovem dragão verde.
 
-O grupo continua a investigar os restantes edificios, até que chega a um que está infestado com teias de aranha. Após avançar para desbravar caminho, Alxian fica restraint pela aranha
+O grupo continua a investigar os restantes edificios, até que chega a um que está infestado com teias de aranha. 
+
+Após avançar para desbravar caminho, Alxian fica restraint nas teias de aranha... Após lutarem com as aranhas e as suas teias, finalmente entram na loja, exploram o possível e saem pela porta de baixo, entrando numa nova estrutura 8, onde decidem dormir.
+
+A exaustão causada pela luta com as aranhas fez com que durante essa noite sejam capturados por homens vestidos de negro.
+
+
+
