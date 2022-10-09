@@ -19,3 +19,10 @@ Sildar depois pede para ficar com a carta, ao que o grupo se recusa, ao que Sild
 Depois das despedidas, o grupo dirige-se para a Miners Exchange, para falar com a Halia.
 
 À chegada, Halia agradece terem eliminado a ameaça para a povoação, mas recusa-se a pagar a recompensa, pois não mataram o Glasstaff, oferecendo no entanto 15 gp pela carta que trouxeram do esconderijo.
+
+Olf dá um salto à loja da Linene e compra um QuarterStaff, todos tratam de empacotar provisões para a viagem e fazem-se à estrada.
+
+No primeiro dia de viagem, seguem calmamente pelo Triboar Trail sem encontrar ninguém, fazem uma pausa para refeição, onde preparam para o almoço um coelho que António tinha apanhado durante a manhã, voltando à estrada por mais umas horas até o sol começar a descer junto às montanhas ao longe.
+
+Decidem montam acampamento a uns metros da estrada para passar a noite, fazendo turnos de vigia. A noite passa sem problemas e de madrugada, todo o grupo recolhe o acampamento e faz-se novamente à estrada.
+

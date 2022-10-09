@@ -13,7 +13,7 @@ O vulto aproxima-se do António e diz:
 
 Ri-se com grande vontade, acabando por acordar os restantes membros do grupo que, meio ensonados, nem percebem o potencial perigo de alguém que infiltrou o grupo.
 
-O vulto que António não viu aproximar-se identifica-se como sendo Viktor Wuqrinson, um admirador de bestas. Apesar de Viktor assegurar todos que não é uma ameaça, Alxian mantém a sua reserva e distância.
+O vulto que António não viu aproximar-se identifica-se como Viktor Wuqrinson, um admirador de bestas. Apesar de Viktor assegurar todos que não é uma ameaça, Alxian mantém a sua reserva e distância.
 
 Shenron passa o resto da noite à conversa com Viktor, trocando histórias de combate nas últimas semanas. Na manhã seguinte, desfazem o acampamento e continuam pelo caminho.
 
