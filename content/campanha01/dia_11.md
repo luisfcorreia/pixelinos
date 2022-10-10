@@ -30,13 +30,13 @@ Passam a explicar que os cultists (os homens vestidos de negro) queriam fazer um
 
 Alxian tentou convencer o dragão que este grupo não é um perigo, mas iniciaram combate imediatamente.
 
-Viktor assim que conseguiu, activou Giant's Might e conseguiu derrubar o dragão à primeira tentativa. 
+O Viktor aproveita um momento de distração do dragão para, com o Giant's Might, derrubar e o resto do grupo aproveita a oportunidade para aplicar dano.
 
-Com Venomfang por terra, o grupo consegue causar imenso dano no dragão que, furioso lança Poison Breath atingindo a maioria do grupo, colocando Shenron inconsciente.
+Ao ver-se derrubado e a ser atacado por todos os membros do grupo, que a seu ver são criaturas inferiores, Venomfang lança um Poison Breath, atingindo a maioria do grupo e deitando por terra o Shenron que acabaria por ficar quase a totalidade do combate incapacitado.
 
-Viktor continua a derrubar o dragão, enquanto o grupo continua a causar ainda mais dano.
+Após mais uma ronda de ataques do grupo, o jovem dragão tenta levantar-se, mas o Viktor agarra na sua cauda e volta a atirá-lo por terra, causando ainda mais dano e facilitando os próximos ataques dos aventureiros.
 
-Quase exausto e sem energia, Venomfang decide fugir, deixando os aventureiros na torre, bastante danificados.
+Quase exausto, sem energia, de espírito derrubado, Venomfang decide fugir da torre. António e o finalmente consciente Shenron, ao verem o dragão já a voar em fuga, tentam um último ataque com os seus Shortbows e 2nd level Scorching Ray, mas sem sucesso.
 
 O grupo respira de alívio e explora a base da torre, encontrando o resto de um baú totalmente destruido que originalmente continha 800 moedas de prata, 150 de ouro, 4 moonstones, um feitiço de "misty step", outro de "lightning bolt".
 
