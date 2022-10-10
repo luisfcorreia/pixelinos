@@ -32,7 +32,7 @@ Alxian tentou convencer o dragão que este grupo não é um perigo, mas iniciara
 
 Viktor assim que conseguiu, activou Giant's Might e conseguiu derrubar o dragão à primeira tentativa. 
 
-Com Venomfang por terra, o grupo consegue causar imenso dano no dragão que, furioso lança Poison Breath atingindo a maioria do grupo.
+Com Venomfang por terra, o grupo consegue causar imenso dano no dragão que, furioso lança Poison Breath atingindo a maioria do grupo, colocando Shenron inconsciente.
 
 Viktor continua a derrubar o dragão, enquanto o grupo continua a causar ainda mais dano.
 
