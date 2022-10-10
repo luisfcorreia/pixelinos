@@ -37,3 +37,9 @@ Com Venomfang por terra, o grupo consegue causar imenso dano no dragão que, fur
 Viktor continua a derrubar o dragão, enquanto o grupo continua a causar ainda mais dano.
 
 Quase exausto e sem energia, Venomfang decide fugir, deixando os aventureiros na torre, bastante danificados.
+
+O grupo respira de alívio e explora a base da torre, encontrando o resto de um baú totalmente destruido que originalmente continha 800 moedas de prata, 150 de ouro, 4 moonstones, um feitiço de "misty step", outro de "lightning bolt".
+
+Encontram também um machado de guerra, em que se consegue ler nas runas Dwarvicas o seu nome, Hew.
+
+Recolhem então para a casa, passando o resto do dia a curar as feridas do combate e descansam até ao dia seguinte.
