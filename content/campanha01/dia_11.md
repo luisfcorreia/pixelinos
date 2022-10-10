@@ -42,4 +42,6 @@ O grupo respira de alívio e explora a base da torre, encontrando o resto de um 
 
 Encontram também um machado de guerra, em que se consegue ler nas runas Dwarvicas o seu nome, Hew.
 
+Viktor comenta com o grupo que nunca tinha visto um dragão jovem a lutar tanto, pois do que ele tem estudado, eles fogem assim que começam a sangrar imenso. Este deveria ser tão novo que ficou muito irritado por ter sido derrubado constantemente e escolheu não fugir logo.
+
 Recolhem então para a casa, passando o resto do dia a curar as feridas do combate e descansam até ao dia seguinte.
