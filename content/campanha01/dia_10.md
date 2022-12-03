@@ -14,7 +14,9 @@ Esta viagem pelos bosques dura mais dois dias, sem grandes encontros memoráveis
 
 Chegados ao topo de mais uma colina, notam por entre a vegetação uma torre circular, parcialmente destruida e mais umas quantas edificações numa cota mais baixa, revelando a presença do que foi em tempos uma povoação.
 
-Ao aproximarem-se ainda mais desta povoação notam uma placa onde se pode ler "PERIGO! Plantas Monstro E Zombies".
+Ao aproximarem-se ainda mais desta povoação notam uma placa onde se pode ler "PERIGO! Plantas Monstro e Zombies".
+
+![Thundertree Ruins](/images/ThunderTree.jpg)
 
 Não impressionados com este aviso, o grupo decide iniciar a exploração deste grupo de ruínas e nas primeiras encontra Twig Blights e Ash Zombies.
 
