@@ -13,6 +13,8 @@ No último dia de viagem, António consegue descortinar uma pequena coluna de fu
 Ao chegar a uma clareira, o grupo dá com o que resta de um Castelo em ruínas. 
 Após uma pequena inspeção ao seu redor, pouco ou nada conseguem ver, o grupo acha estranho que as portas duplas da entrada do castelo estejam por terra.
 
+![Cragmaw Castle](/images/CragmawCastle.jpg)
+
 Passam então perto de 20 minutos a tentar decidir um plano de acção e decidem por amarrar as mãos do Viktor e vestirem as capas vermelhas que recolheram do Cragmaw Hideout.
 
 Com isto entram em silêncio pelas portas principais do castelo, com António à frente, que com uma falta de olho tropeça numa armadilha e fica prostrado no chão.
@@ -36,4 +38,6 @@ Depois de recuperarem forças, varrem todo o castelo, sala por sala, eliminando 
 
 Encontram um escudo e uma espada em excelentes condições, que Gundren diz pertencer a Sildar Hallwinter.
 
-Ao saír do castelo, são surpreendidos com um grupo de hobgoblins que voltam de uma caçada. Prontamente dão descanso aos ditos hobgoblins.
+Ao saír do castelo, são surpreendidos com um grupo de hobgoblins que voltam de uma caçada. Prontamente "dão descanso" aos ditos hobgoblins.
+
+
