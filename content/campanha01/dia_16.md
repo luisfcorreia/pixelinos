@@ -21,3 +21,19 @@ Devido ao barulho, o grupo vê-se confrontado com dois Goblins armados que pront
 
 O grupo consegue convencer os Goblins que transportavam um prisioneiro importante (o Viktor) e os Goblins acompanham o grupo até junto do Rei Grol, um velho bugbear.
 
+Chegados à presença do Rei Grol, apercebem-se da presença de um lobo, Snarl e de uma dark elf, Vyerith. Ao fundo da sala vêem um corpo prostrado no chão.
+
+*
+Negoceiam a conversa com o Rei, fazendo-se passar pelos Redbrands trazendo o Viktor como prisioneiro.
+
+Mas rapidamente a coisa descamba e entram em combate, conseguindo com algum custo derrotar todos os presentes e mais uns Goblins que entretanto vieram em apoio ao Rei.
+
+Ao investigar o corpo inerte, o grupo percebe que é um anão, que depois de estabilizado, recupera os sentidos, apresentando-se como Gundren Rockseeker.
+
+Insiste com o grupo para que recuperem o mapa precioso que contém a localização da Wave Echo Cave. O grupo pesquisa toda esta sala, acabando por o encontrar debaixo da cama do rei.
+
+Depois de recuperarem forças, varrem todo o castelo, sala por sala, eliminando todos os obstáculos.
+
+Encontram um escudo e uma espada em excelentes condições, que Gundren diz pertencer a Sildar Hallwinter.
+
+Ao saír do castelo, são surpreendidos com um grupo de hobgoblins que voltam de uma caçada. Prontamente dão descanso aos ditos hobgoblins.
