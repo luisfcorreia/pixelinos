@@ -40,9 +40,16 @@ O grupo mete-se a brincar com a galinha, que engole moedas de ouro e apenas moed
 
 Assim que chegam ao Town Green, Shenron agarra na galinha e afasta-se do grupo uns minutos tentando usar o ritual de Comprehend Languages para ver se consegue perceber o que raio é que se está a passar com a galinha.
 
-Enquanto Shenron está ocupado a uns metros dos restante, Olf desata a fazer as acrobacias que tem passado a última semana a fazer, mas infelizmente, tropeça num tudo de erva e estatela-se no chão.
+Enquanto Shenron está ocupado a uns metros dos restante, Olf desata a fazer as acrobacias que tem passado a última semana a fazer, mas infelizmente, tropeça num tufo de erva e estatela-se no chão.
 
 Achando muito estranho que ali estivesse um alto, Olf incestiga e descobre um pequeno saco em pele com 50 moedas de ouro. Os restantes riem-se do espalhafato e ao olhar para as moedas dizem logo que é um stash do António, que diz prontamente que "se é, eu não me lembro de nada!".
+
+Shenron volta para perto do grupo e comunica o que conseguiu compreender:
+"Bom, este ser de penas tem nome, é o Ivil e parece-me ser um aasimar Warlock. Só não faço a mínima ideia de como é que se transformou nisto"
+
+António bem que tenta reaver a galinha, mas agora ela anda sempre ao lado de Shenron, provavelmente porque percebe que consegue comunicar de forma rudimentar.
+
+
 
 
 
