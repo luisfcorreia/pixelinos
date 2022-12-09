@@ -42,14 +42,15 @@ Assim que chegam ao Town Green, Shenron agarra na galinha e afasta-se do grupo u
 
 Enquanto Shenron está ocupado a uns metros dos restante, Olf desata a fazer as acrobacias que tem passado a última semana a fazer, mas infelizmente, tropeça num tufo de erva e estatela-se no chão.
 
-Achando muito estranho que ali estivesse um alto, Olf incestiga e descobre um pequeno saco em pele com 50 moedas de ouro. Os restantes riem-se do espalhafato e ao olhar para as moedas dizem logo que é um stash do António, que diz prontamente que "se é, eu não me lembro de nada!".
+Achando muito estranho que ali estivesse um alto, Olf investiga e descobre um pequeno saco em pele com 50 moedas de ouro. Os restantes riem-se do espalhafato e ao olhar para as moedas dizem logo que é um stash do António, que diz prontamente que "se é, eu não me lembro de nada!".
 
 Shenron volta para perto do grupo e comunica o que conseguiu compreender:
-"Bom, este ser de penas tem nome, é o Ivil e parece-me ser um aasimar Warlock. Só não faço a mínima ideia de como é que se transformou nisto"
+"Bom, este ser de penas tem nome, é o Ivil e parece-me ser um aasimar Warlock. Só não faço a mínima ideia de como é que se transformou nisto".
 
 António bem que tenta reaver a galinha, mas agora ela anda sempre ao lado de Shenron, provavelmente porque percebe que consegue comunicar de forma rudimentar.
 
+Depois de conferenciarem um pouco em grupo, decidem meter-se a caminho para Este, seguindo as indicações que Alxian vai fornecendo.
 
-
+Perto do fim do dia, decidem sair do parco trilho por onde tem seguido e preparam acampamento. Durante essa noite, todos sentem que não dormiram o suficiente e sentiram-se incomodados a noite toda. No entanto, nenhum deles consegue perceber o porquê!
 
 
