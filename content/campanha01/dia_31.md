@@ -35,7 +35,7 @@ Exploram o piso térreo, veem de imediato uma pequena fonte do lado oposto à en
 
 Decidem descansar para se livrarem da exaustão por não terem dormido, Olf coloca uma moeda de cada lado das escadas para tentar perceber se a galinha ali está.
 
-Dormem divididos entre dois quartos, Shenron invoca um Alarm para se alguém se aproximar da porta.
+Dormem divididos entre dois quartos, Shenron invoca um feitiço de Alarm para o caso de alguém se aproximar da porta.
 
 ---
 
