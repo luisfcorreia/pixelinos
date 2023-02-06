@@ -39,5 +39,6 @@ Dormem divididos entre dois quartos, Shenron invoca um feitiço de Alarm para o 
 
 ---
 
-Entretanto Alxian, que ficou sozinho no cimo da colina, decide abandonar a colina e explorar a floresta para Este, recolhendo provisões pelo caminho.
-Segue um caminho por entre as árvores, acabando por encontrar um local abrigado para passar a noite. Improvisa um colchão com folhas e ramos, come o que conseguir recolher pelo caminho e prepara-se para a noite.
+Entretanto Alxian, que ficou sozinho no cimo da colina, decide abandonar aquele sítio e explorar a floresta para Este, recolhendo provisões pelo caminho.
+Segue um caminho por entre as árvores, acabando por encontrar um local abrigado para passar a noite. 
+Improvisa um colchão com folhas e ramos, come o que conseguiu recolher pelo caminho e prepara-se para a noite.
