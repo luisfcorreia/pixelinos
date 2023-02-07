@@ -36,7 +36,7 @@ Nas redondezas encontra um pedaço de pedra da mesma cor e depois de pensar um p
 
 Alxian respira fundo e entra para o círculo, que se revela ser mesmo o que pensava, e é transportado imediatamente para outro local.
 
-Local esse que tem um pequeno cheiro a humidade e que está totalmente às escuras.
+Local esse que tem um pequeno cheiro a humidade e está totalmente às escuras.
 
 
 
