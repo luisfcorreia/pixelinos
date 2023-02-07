@@ -18,7 +18,7 @@ Ficam ali uns bons minutos a admirar a torre e a tentar ultrapassar a exaustão 
 
 É nesta altura que todo o grupo, muito a custo desata a correr encosta abaixo atrás da galinha, tropeçando em quase todos os ramos salientes.
 
-Meio ofegantes, chegam à beira do rio, vendo que a galinha simplesmente voo por cima da água e encontra-se já a subir a encosta em direcção à torre.
+Meio ofegantes, chegam à beira do rio, vendo que a galinha simplesmente levitou por cima da água e encontra-se já a subir a encosta em direcção à torre.
 Reparam também um monte de 10 moedas de electrum junto à borda do rio, provavelmente de onde a galinha descolou para passar o rio.
 
 O grupo trata então de passar a vau o rio, ou a andar ou a nadar, engolindo alguns pirolitos pelo caminho.
