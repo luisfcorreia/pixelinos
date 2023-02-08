@@ -36,9 +36,12 @@ Nas redondezas encontra um pedaço de pedra da mesma cor e depois de pensar um p
 
 Alxian respira fundo e entra para o círculo, que se revela ser mesmo o que pensava, e é transportado imediatamente para outro local.
 
-Local esse que tem um pequeno cheiro a humidade e está totalmente às escuras.
+Local esse que tem um pequeno cheiro a humidade e está totalmente às escuras. Após alguns segundos de adaptação à diferença de brilho, consegue perceber que está numa área de armazenamento, talvez uma cave ou adega.
 
+Ao fundo vê umas escadas e resolve subir. Depois de abrir a porta no cimo das escadas, fica novamente encadeado com a diferença de brilho.
 
+Dá por si numa cozinha, com uma porta que dá para um bréu escuro, segue para outra divisão, onde vê restos de uma refeição espalhados numa mesa. Continuando a exploração dá com um espaço grande, com uma fonte do lado esquerdo e outra porta maior que dá para o escuro.
 
+Alxian consegue perceber que, de alguma forma obscura, está dentro da torre que viu desaparecer no dia anterior...
 
-TBF
+(continua)
