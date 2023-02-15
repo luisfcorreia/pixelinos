@@ -42,6 +42,20 @@ Ao fundo vê umas escadas e resolve subir. Depois de abrir a porta no cimo das e
 
 Dá por si numa cozinha, com uma porta que dá para um bréu escuro, segue para outra divisão, onde vê restos de uma refeição espalhados numa mesa. Continuando a exploração dá com um espaço grande, com uma fonte do lado esquerdo e outra porta maior que dá para o escuro.
 
-Alxian consegue perceber que, de alguma forma obscura, está dentro da torre que viu desaparecer no dia anterior...
+Alxian consegue perceber que, de alguma forma obscura, está dentro da torre que viu desaparecer no dia anterior e decide investigar as restantes salas do piso inferior sem encontrar nada de relevante e sobe uma das escadas, dando de caras com os restantes membros do grupo de volta da tentativa frustrada de abrir uma porta.
 
-(continua)
+Aproveita para sacar a espada e tentar ajudar a abrir a porta, sem qualquer resultado positivo.
+
+Entretanto, Shenron apercebe-se que a porta tem um escudo mágico invisível que bloqueia o acesso e explica ao resto do grupo que não será por força bruta...
+
+Desistindo de abrir a porta, viram-se para o outro lado e descobrem a biblioteca, onde encontram vários esqueletos que se materializaram do nada e atacam o grupo.
+
+Depois de terem tratado de os eliminar sem grandes problemas, Shenron encontra um pergaminho que contém uma missiva de um Nezznar, dirigida a um tal Ivil.
+
+![Pergaminho Nezznar para Ivil](/images/NezznarToIvil.png)
+
+Investigam a biblioteca com mais detalhe, agora que estão livres de perigo, tentando encontrar algua pista em como abrir a porta e Shenron repara que há um sitio onde parece que foi recentemente mexido, já que o resto da bliblioteca está imaculada.
+
+Encontra um livro com uma pequena folha no seu interior, que contém as seguintes palavras, *Alis propriis volat bona fide*.
+
+Decide então ir até à porta, recitar solenemente as palavras e sente uma alteração mágica no espaço, tenta abrir a porta, que abre sem qualquer problema.
