@@ -53,9 +53,3 @@ Desistindo de abrir a porta, viram-se para o outro lado e descobrem a biblioteca
 Depois de terem tratado de os eliminar sem grandes problemas, Shenron encontra um pergaminho que contém uma missiva de um Nezznar, dirigida a um tal Ivil.
 
 ![Pergaminho Nezznar para Ivil](/images/NezznarToIvil.png)
-
-Investigam a biblioteca com mais detalhe, agora que estão livres de perigo, tentando encontrar algua pista em como abrir a porta e Shenron repara que há um sitio onde parece que foi recentemente mexido, já que o resto da bliblioteca está imaculada.
-
-Encontra um livro com uma pequena folha no seu interior, que contém as seguintes palavras, *Alis propriis volat bona fide*.
-
-Decide então ir até à porta, recitar solenemente as palavras e sente uma alteração mágica no espaço, tenta abrir a porta, que abre sem qualquer problema.
