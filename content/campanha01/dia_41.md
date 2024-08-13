@@ -26,4 +26,8 @@ Seermer Assembly - Parte um
 Seermer Assembly - Parte dois
 {{< youtube 0UIcRM14__4 >}}
 
-No final da sessão,os aventureiros são confrontadoscom uma lista de tarefas para executar, ficando também sem alguns items mágicos e sem algumas armas físicas.
+No final da sessão, os aventureiros são confrontados com uma lista de tarefas para executar, ficando também sem alguns items mágicos e sem algumas armas físicas.
+
+Shenron aproveita e envia uma carta ao Capitão Oscar de Hazelwell, pedindo ajuda com mantimentos.
+
+![Carta para Oscar](/images/ShenrontoOscar.jpg)
