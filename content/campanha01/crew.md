@@ -16,6 +16,7 @@ weight: 01
 # Convidados
 
 * Viktor - Human Variant Fighter
+* Leland Cradal - Cleric, Tempest Domain, Fighter
 
 # Dungeon Master
 
