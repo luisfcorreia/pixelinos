@@ -28,6 +28,16 @@ Seermer Assembly - Parte dois
 
 No final da sessão, os aventureiros são confrontados com uma lista de tarefas para executar, ficando também sem alguns items mágicos e sem algumas armas físicas.
 
+Recebem um pergaminho que Shenron identifica como mágico e que contém neste momentos três linhas:
+* Campos de bandidos na Floresta de Saanfjord
+* Ataques a caravanas que fornecem matéria prima a Hazelwell
+* Estrada para White Feather Castle bloqueada na Ponte dos 3 caminhos
+
+
 Shenron aproveita e envia uma carta ao Capitão Oscar de Hazelwell, pedindo ajuda com mantimentos.
 
 ![Carta para Oscar](/images/ShenrontoOscar.jpg)
+
+O grupo decide sair de Saanfjord e meter-se a caminho, cumprindo uma das três tarefas da lista, "Campos de bandidos na Floresta de Saanfjord".
+
+Ao anoitecer, desviam-se do caminho e montam um acampamento, passando a noite sem sobressaltos.
