@@ -18,6 +18,8 @@ Acabam por ter que seguir para norte, desbravando novo caminho até chegarem a u
 
 Visível logo à entrada, um cartaz que diz "Coisas Estranhas Nestas Ruínas" 
 
+![Ruínas na floresta](/images/TowerRuin.jpg)
+
 Depois de alguma investigação, encontram um livro que não conseguem abrir e também uma espada que fala com quem a empunha.
 
 Seguem caminho acabando por dar com um lago, onde à sua beira decidem acampar.
