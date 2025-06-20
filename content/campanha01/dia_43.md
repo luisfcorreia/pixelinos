@@ -47,4 +47,4 @@ Com a passagem pelo círculo, encontram-se no topo de uma colina, num ambiente u
 
 Pelo caminho encontram uns viajantes, em silêncio absoluto, não respondendo a qualquer pergunta.
 
-Ao chegar à penumbra da noite, acampam perto do caminho, e passamuma noite inquieta mas sem surpresas.
+Ao chegar à penumbra da noite, acampam perto do caminho, e passam uma noite inquieta mas sem surpresas.

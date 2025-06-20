@@ -6,7 +6,7 @@ weight: 440
 
 ---
 
-# Ate ao Mosteiro
+# Até ao Mosteiro
 
 Acordam com uma noite mal dormida e metem-se novamente a caminho, após várias horas de caminhada e sempre a subir, chegam finalmente ao que pensam ser o mosteiro. Perto da entrada, há um acampamento informal com pessoas de várias raças, cada uma junta com os seus.
 
